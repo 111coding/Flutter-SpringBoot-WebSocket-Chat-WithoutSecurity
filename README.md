@@ -1,6 +1,12 @@
 # Flutter + SpringBoot Websocket Chat Example (Without Spring Security)
 ---
 
+# TODO
+@SendToUser Example 공부하고 @SendTo와 비교
+https://www.baeldung.com/spring-websockets-sendtouser
+
+---
+
 # Flutter Websocket Stomp Without Security
 
 - dependencies
